@@ -1,11 +1,16 @@
-html{
+*{
+    font-family:Arial, Helvetica, sans-serif; 
+}
+body{
     background-color:#eff0e3;
     }
 
-p{
-    font-family:Arial, Helvetica, sans-serif;
-}
+#imagem{
+    text-align: center;
+    }
 
-#img{
+#tabelaa{
+    text-transform: uppercase;
+    font-weight: bold;
     text-align: center;
 }
