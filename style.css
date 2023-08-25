@@ -76,9 +76,11 @@ figcaption{
     text-align: center ;
 }
 
-figure{
+figure img{
     border: 50%;
 }
+
+
 
 
 
