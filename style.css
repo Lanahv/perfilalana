@@ -1,35 +1,48 @@
+/* foi usado o asteristico para formatar todo o texto da página*/
 *{
     font-family:Arial, Helvetica, sans-serif; 
 }
+/* mudei a cor de fundo da página*/
 body{
     background-color:#eff0e3;
 }
-
+/*colocar a imagem no centro da página*/
 #imagem{
     text-align: center;
 }
-
+/* editar o título da tabela("algo sobre mim"):letra maiuscula,negrito,texto no centro,tamanho da fonte*/
 #titulotabela{
     text-transform: uppercase;
     font-weight: bold;
     text-align: center;
     font-size:20px
 }
-
+/* tabela("algumas tags html")*/
 #titulotabela1{
     text-transform: uppercase;
     font-weight: bold;
     text-align: center;
     font-size:20px
 }
-
+/* editar as tabelas colocando bordas arredondadas*/
 table{
     border: 2px solid red;
     border-radius: 10px;
     padding: 5px;
 }
+/* cor das letras A,B(o "c"é o b do formulário inativo)*/
+color a{
+    color:#006600;
+}
 
+color b{
+    color:#0000ff;
+}
+ color c{
+    color:#ff9900;
+}
 
+/*editei os formulários(tamanho da fonte e cor)*/
 #formulárioa{
     font-size: 18px;
     color:#006600;
@@ -52,10 +65,12 @@ figure{
     text-align: center;
 }
 
-figurecaption{
+figcaption{
     background-color: black;
     background-color: white;
     font-style: italic;
     padding: 2px;
     text-align: center ;
 }
+
+
