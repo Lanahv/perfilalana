@@ -102,8 +102,27 @@ figure img{
     text-align: center;
 }
 
-#titulodapg{
-    
+/*tem que formatar o título da página*/
+
+
+table{
+    width: 100%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
+}
+td, th {
+    padding: .7em;
+    margin: 0;
+    /*border: 1px solid #ccc;*/
+    text-align: center;
+}
+  
+tr{
+    background-color red;
+}
+td{
+    background-color: #f0f0f0;
 }
 
 
