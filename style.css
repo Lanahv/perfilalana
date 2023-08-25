@@ -24,7 +24,7 @@ body{
 }
 
 /* tabela("algumas tags html")*/
-#tabela2titulo{
+caption{
     text-transform: uppercase;
     font-size:20px;
     text-align: center;
