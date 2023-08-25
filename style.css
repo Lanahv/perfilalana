@@ -22,10 +22,15 @@ table{
     padding: 5px;
 }
 
-
+{}
 
 
 #formulárioa{
     font: size 18px;
     color:#006600;
+}
+
+#formulariob{
+    font: size 18px;
+    color:0000ff;
 }
