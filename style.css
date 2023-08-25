@@ -24,12 +24,14 @@ body{
     text-align: center;
     font-size:20px
 }
+
 /* editar as tabelas colocando bordas arredondadas*/
 table{
     border: 2px solid red;
     border-radius: 10px;
     padding: 5px;
 }
+
 /* cor das letras A,B(o "c"é o b do formulário inativo)*/
 color a{
     color:#006600;
@@ -58,19 +60,25 @@ color b{
     color:#ff9900;
 } 
 
+/*editei a imagem dos estudantes*/
 figure{
-    border: 1px solid #cccccc;
+    border: 1px #cccccc solid;
     width: 50%;
     padding: 4px;
-    text-align: center;
+    margin: auto;
 }
 
 figcaption{
     background-color: black;
-    background-color: white;
+    color: white;
     font-style: italic;
     padding: 2px;
     text-align: center ;
 }
+
+figure{
+    border: 50%;
+}
+
 
 
