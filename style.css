@@ -3,11 +3,11 @@
 }
 body{
     background-color:#eff0e3;
-    }
+}
 
 #imagem{
     text-align: center;
-    }
+}
 
 #titulotabela{
     text-transform: uppercase;
@@ -22,3 +22,10 @@ table{
     padding: 5px;
 }
 
+
+
+
+#formulárioa{
+    font: size 18px;
+    color:#006600;
+}
