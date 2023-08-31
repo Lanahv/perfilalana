@@ -110,7 +110,7 @@ table{
     table-layout: fixed;
     text-align: center;
 }
-td, th{
+th{
     padding: .7em;
     margin: 0;
     /*border: 1px solid #ccc;*/
