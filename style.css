@@ -101,13 +101,14 @@ figure img{
     background-color: red;
     color: black;
     text-align: center;
-    background-image: linear-gradient(rgba(226, 218, 218, 0.904), rgb(104, 0, 0));
+    background-image: linear-gradient(rgba(255, 255, 255, 0.904), rgb(104, 0, 0));
 }
 
 /*tem que formatar o título da página*/
 .titulodapg{
     text-align: center;
 }
+
 /*formatação das tabelas*/
 table{
     width: 100%;
