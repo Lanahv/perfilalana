@@ -99,7 +99,7 @@ figure img{
     bottom: 0;
     width: 100%;
     background-color: red;
-    color: white;
+    color: black;
     text-align: center;
     background-image: linear-gradient(rgba(226, 218, 218, 0.904), rgb(104, 0, 0));
 }
