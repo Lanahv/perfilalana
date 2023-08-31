@@ -99,18 +99,20 @@
                     </table>
                 </div>
         <p> Um tipo de <b>FORMULÀRIO</b> -<color><a>A</a></color></p>
-            <form action="#">
-                <label for="fname">Primeiro Nome:</label><br />
-                <input type="text" id="fname" name="fname" value="Alana"><br />
-                <label for="lname">Sobrenome:</label><br />
-                <input type="text" id="lname" name="lname" value="Lemos"><br />
-            Comentários: <br />
-                <small>Não precisa comentar, é só um exemplo:</small><br />
-                <textarea rows="10" cols="40"></textarea> <br />
-                <input type="submit" value="Enviar">
-            </form>
+                <div class="formularioa">
+                    <form action="#">
+                        <label for="fname">Primeiro Nome:</label><br />
+                        <input type="text" id="fname" name="fname" value="Alana"><br />
+                        <label for="lname">Sobrenome:</label><br />
+                        <input type="text" id="lname" name="lname" value="Lemos"><br />
+                    Comentários: <br />
+                        <small>Não precisa comentar, é só um exemplo:</small><br />
+                        <textarea rows="10" cols="40"></textarea> <br />
+                        <input type="submit" value="Enviar">
+                    </form>
+                    </div>
         <p> Outro tipo de <b>Formulário -<color><b>B</b></color>- Ativo</b> sendo que dá pra escrever dentro dele:</p>
-                <div>
+                <div class="formulariob">
                     <fieldset form="form1">
                         <legend>Formulário da Alana</legend>
                         <label for="fname">Primeiro Nome:</label>
@@ -124,8 +126,8 @@
                         <input type="submit" value="Enviar">
                     </fieldset><br />
                 </div>
-                <div>
         <p> Outro tipo de <b>Formulário -<color><c>B</c></color>- Inativo</b> sendo que não dá pra escrever dentro dele:</p>
+                <div class="formularioc">
                     <fieldset form="form2">
                         <legend>Formulário da Alana</legend>
                         <label for="fname">Primeiro Nome:</label>
@@ -148,7 +150,7 @@
                         <figcaption>Fig.1 Estudantes</figcaption>
                     </figure>
                 </div>
-        <p>Opção usando um input tipo CHECKBOX (Caixa de checagem)...</p><br />
+        <p>Opção usando um input tipo <b>CHECKBOX</b>(Caixa de checagem)...</p><br />
                 <div>
                     <form action="#">
                         <input type="checkbox" id="vehicle1" name="vehicle1" value="Carro">
@@ -161,7 +163,7 @@
                     </form><hr />
                 </div>
 
-        <p>Opção usando um input tipo RADIO (Botão tipo radio)...</p>
+        <p>Opção usando um input tipo <b>RADIO</b> (Botão tipo radio)...</p>
         <p>Por favor selecione uma linguagem de marcação/programação favorita:</p>
                 <div>
                         <input type="radio" nome="html" value="html">html<br />
@@ -173,12 +175,12 @@
                         <input type="radio" nome="61 - 90" value="61 - 90">61 - 90<br /><br />
                         <input type="submit" value="Enviar"><hr />
                 </div>
-        <p>Opção usando um input tipo PASSWORD (Senha)...</p>
+        <p>Opção usando um input tipo <b>PASSWORD</b>(Senha)...</p>
                     <form action="#">
                         <label for="pwd">Senha:Confirmação</label>
                         <input type="password" id="pwd" name="pwd" minlength="8"><small> Digite alguns números para ver</small><br><br>  
                     </form><hr />
-        <p>Opção usando input Color (Cores)...</p>
+        <p>Opção usando input <b>Color</b>(Cores)...</p>
                     <form>
                         Selecione uma cor: 
                         <input type="color" name="cor" value="#ffffff">
@@ -193,17 +195,17 @@
                         <input type="color" name="cor" value="#ff1a1a">
                         <input type="color" name="cor" value="#ff0000">
                     </form><hr />
-        <p>Opção usando um input tipo number (Número)</p>
+        <p>Opção usando um input tipo <b>NUMBER</b> (Número)</p>
                     <form action="#">
                         <label for="quantity">Ano de Nascimento, obs: você pode digitar tbm se quiser:</label>
                         <input type="number" id="quantity" name="quantity" min="1" max="9">
                     </form><hr />
-        <p>Opção usando um input tipo Range (Barra)...</p>
+        <p>Opção usando um input tipo <b>Range</b>(Barra)...</p>
                     <form>
                         <label for="vol"></label>
                         <input type="range" id="vol" name="vol" min="0" max="50">
                     </form><br /><hr />
-        <p>Opção usando um input tipo Time (Hora)...</p>
+        <p>Opção usando um input tipo <b>Time</b>(Hora)...</p>
                     <form>
                         <input type="time" name="" required>
                     </form><hr />
