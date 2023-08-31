@@ -109,9 +109,8 @@ table{
     margin-bottom : .5em;
     table-layout: fixed;
     text-align: center;
-    height: auto;
 }
-th {
+td, th{
     padding: .7em;
     margin: 0;
     /*border: 1px solid #ccc;*/
@@ -121,9 +120,12 @@ th {
 }
   
 tr{
-    background-color:red;
+    background-color:#f0f0f0;
 }
-td{
-    background-color: #f0f0f0;
+
+th{
+    background-color: #660000;
+    text-transform: uppercase;
+    color: #EFE3F0;
 }
 
