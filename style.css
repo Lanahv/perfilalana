@@ -100,6 +100,7 @@ figure img{
     background-color: red;
     color: white;
     text-align: center;
+    background-image: linear-gradient(rgb(163, 144, 144), rgb(82, 5, 5));
 }
 
 /*tem que formatar o título da página*/
