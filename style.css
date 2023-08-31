@@ -110,12 +110,12 @@ table{
     table-layout: fixed;
     text-align: center;
 }
-th{
+td, th{
     padding: .7em;
     margin: 0;
     /*border: 1px solid #ccc;*/
     text-align: center;
-    background-color: #800000;
+    background-color: #f0f0f0;
     color: #eff0e3;
 }
   
