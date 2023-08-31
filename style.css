@@ -109,6 +109,7 @@ table{
     margin-bottom : .5em;
     table-layout: fixed;
     text-align: center;
+    height: auto;
 }
 th {
     padding: .7em;
