@@ -35,11 +35,6 @@ caption{
 /*a tabela de "nome,idade,comida,séria" foi editada no html(a letra ficou maiuscula,texto em negrito e no centro,cor da fonte)*/
 
 
-/* editar as tabelas colocando bordas arredondadas*/
-table{
-    border-radius: 10%;
-}
-
 /*FORMULÁRIOS*/
 
 /* cor das letras A,B(o "c"é o b do formulário inativo) foi colocado a tag color no html*/
