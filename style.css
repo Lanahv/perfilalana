@@ -95,7 +95,7 @@ figure img{
     background-color: red;
     color: black;
     text-align: center;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.904), rgb(104, 0, 0));
+    background-image: linear-gradient(rgba(255, 255, 255, 0.904), hsl(0, 100%, 20%));
 }
 
 /*tem que formatar o título da página*/
