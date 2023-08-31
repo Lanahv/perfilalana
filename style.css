@@ -56,6 +56,10 @@ color c{
 
 
 /*editei os formulários(tamanho da fonte e cor)*/
+.formularioha{
+    font-size: 18px;
+    color:#006600;
+}
 .formulariob{
     font-size: 18px;
     color:#0000ff;
