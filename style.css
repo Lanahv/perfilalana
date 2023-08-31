@@ -21,6 +21,7 @@ body{
     text-transform: uppercase;
     font-size:20px;
     text-align: center;
+    color: #800000;
 }
 
 /* tabela("algumas tags html")*/
@@ -28,6 +29,7 @@ caption{
     text-transform: uppercase;
     font-size:20px;
     text-align: center;
+    color: #800000;
 }
 
 /*a tabela de "nome,idade,comida,séria" foi editada no html(a letra ficou maiuscula,texto em negrito e no centro,cor da fonte)*/
