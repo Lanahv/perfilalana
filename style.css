@@ -56,17 +56,17 @@ color c{
 
 
 /*editei os formulários(tamanho da fonte e cor)*/
-#formulárioa{
+.formulárioa{
     font-size: 18px;
     color:#006600;
 }
 
-#formulariob{
+.formulariob{
     font-size: 18px;
     color:#0000ff;
 }
 
-#formularioc{
+.formularioc{
     font-size: 18px;
     color:#ff9900;
 } 
@@ -106,7 +106,7 @@ figure img{
 }
 
 /*tem que formatar o título da página*/
-#titulodapg{
+.titulodapg{
     text-align: center;
 }
 
