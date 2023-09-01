@@ -110,22 +110,21 @@ table{
     table-layout: fixed;
     text-align: center;
 }
-td, th{
+td{
     padding: .7em;
     margin: 0;
     /*border: 1px solid #ccc;*/
     text-align: center;
-    background-color: #660000;
+    background-color: #f0f0f0;
     color: black;
 }
   
 tr{
     background-color:#f0f0f0;
 }
-/*
+
 th{
     background-color: #660000;
     text-transform: uppercase;
     color: #EFE3F0;
 }
-*/
