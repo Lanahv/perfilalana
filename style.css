@@ -16,13 +16,13 @@ body{
 }
 
 
- /*editar o título da tabela("algo sobre mim"):letra maiuscula,negrito,texto no centro,tamanho da fonte
+ /*editar o título da tabela("algo sobre mim"):letra maiuscula,negrito,texto no centro,tamanho da fonte*/
 #titulotabela{
     text-transform: uppercase;
     font-size:20px;
     text-align: center;
     color: #800000;
-}*/
+}
 /* tabela("algumas tags html")*/
 caption{
     text-transform: uppercase;
