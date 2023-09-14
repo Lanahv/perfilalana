@@ -128,3 +128,10 @@ th{
     color: #EFE3F0;
     height: 50px;
 }
+
+.caixatexto{
+    width:50px;
+    border:5px solid red;
+    padding:50px;
+    margin:20px;
+}
