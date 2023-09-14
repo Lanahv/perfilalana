@@ -85,9 +85,9 @@ figure img{
 }
 
 
-/*RODAPÉ
+/*RODAPÉ*/
 .rodape {
-    position: fixed;
+    /*position: fixed;*/
     left: 0;
     bottom: 0;
     width: 100%;
@@ -95,7 +95,7 @@ figure img{
     color: black;
     text-align: center;
     background-image: linear-gradient(rgba(247, 247, 247, 0.904), hsl(0, 100%, 20%));
-}*/
+}
 
 /*tem que formatar o título da página*/
 .titulodapg{
