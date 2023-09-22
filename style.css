@@ -65,14 +65,14 @@ color c{
 
 
 /*editei a imagem dos estudantes*/
-#figure{
+figure{
     border: 1px #cccccc solid;
     width: 50%;
     padding: 4px;
     margin: auto;
 }
 
-#figcaption{
+figcaption{
     background-color: black;
     color: white;
     font-style: italic;
