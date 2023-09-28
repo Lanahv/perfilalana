@@ -154,5 +154,11 @@ h1{
     text-align: center;
 }
 
+.titlech{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 15px;
+  }
 
 
