@@ -161,7 +161,7 @@ th{
     padding: 20px;
 }
 
-.container {
+/*.container {
     width: 85%;
     margin: 0 auto;
     padding: 20px;
@@ -194,4 +194,44 @@ th{
     text-align: center;
     padding: 5px;
     clear: both;
+}*/
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+   }
+.box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    float: left;
+    width: calc(33.33% - 20px);
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+.box p {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify;
+}
+.box h2 {
+    font-size: 24px;
+    margin-top: 0;
+    text-align: center;
+}
+.rodapeBox {
+    background-color: #333;
+    color: #000000;
+    text-align: center;
+    padding: 5px;
+    clear: both;
+}
+.vermelho{
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: yellowgreen black;
+  font-weight: bold;
+  font-size: 25px;
+  color: #660000;
+
 }
