@@ -161,7 +161,7 @@ th{
     padding: 20px;
 }
 
-/*.container {
+.container {
     width: 85%;
     margin: 0 auto;
     padding: 20px;
@@ -194,8 +194,9 @@ th{
     text-align: center;
     padding: 5px;
     clear: both;
-}*/
-.container {
+}
+
+/*.container {
     width: 80%;
     margin: 0 auto;
     padding: 20px;
@@ -234,4 +235,4 @@ th{
   font-size: 25px;
   color: #660000;
 
-}
+}*/
